@@ -1,7 +1,9 @@
 # NLP-CW
 Paul Caprariu (apc4818), Maxim Fishman (maf221), Clarence Ng (cn21)
 
-This notebook contains the code for exploratory data analysis, model training, and results analysis for the approaches that we used. 
+The notebook meant for grading is NLP_CW.ipynb. The other one has code for the regression version.
+
+The notebook contains the code for exploratory data analysis, model training, and results analysis for the approaches that we used. 
 
 The notebook is written to be run in Google Colab. 
 
